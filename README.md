@@ -10,7 +10,7 @@
 const nombresGatos = ["Rodolfo", "Muzzarela", "Artilugia", "Wosito", "Calamardo"]
 ```
 
-3. En el JSX (el retorno de App) recorrer con un map nombresGato y por cada elemento del array retornar un <p> con el nombre del gato como contenido
+3. En el JSX (el retorno de App) recorrer con un map nombresGato y por cada elemento del array retornar un `<p>` con el nombre del gato como contenido
 
 4. Crear un componente llamado BotonGato que reciba como parametro un string. Ese string va a ser el contenido de un button de html. 
 

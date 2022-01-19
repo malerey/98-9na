@@ -7,7 +7,7 @@
 2. Agregar en App.js el siguiente array, 
 
 ```
-const nombresGatos = [Rodolfo, Muzzarela, Artilugia, Wosito, Calamardo]
+const nombresGatos = ["Rodolfo", "Muzzarela", "Artilugia", "Wosito", "Calamardo"]
 ```
 
 3. En el JSX (el retorno de App) recorrer con un map nombresGato y por cada elemento del array retornar un <p> con el nombre del gato como contenido

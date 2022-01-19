@@ -1,0 +1,10 @@
+.nombre-alumna {
+  background-color: lightblue;
+  font-size: 40px;
+  margin: 20px;
+}
+
+.wrap {
+  display: flex;
+  flex-wrap: wrap
+}
